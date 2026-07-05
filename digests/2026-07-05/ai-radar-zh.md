@@ -1,0 +1,69 @@
+# 信息雷达AI推荐日报
+
+> 报告日期2026-07-05 HN/GitHub/ArXiv 共72条
+
+## Top 5 今日推荐
+
+### 1. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+- GitHub | 1.00 | NousResearch
+  - stars:209152
+  - 简介:The agent that grows with you
+
+### 2. [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+
+- Hacker News | 0.74 | gslin
+  - points:698 comments:394
+
+### 3. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- GitHub | 1.00 | Significant-Gravitas
+  - stars:185348
+  - 简介:AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matter
+
+### 4. [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
+- GitHub | 0.93 | bytedance
+  - stars:76090
+  - 简介:An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and 
+
+### 5. [langgenius/dify](https://github.com/langgenius/dify)
+
+- GitHub | 1.00 | langgenius
+  - stars:147658
+  - 简介:Production-ready platform for agentic workflow development.
+
+## 总评(72条)
+
+1. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|GitHub|1.00
+2. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|GitHub|1.00
+3. [langgenius/dify](https://github.com/langgenius/dify)|GitHub|1.00
+4. [affaan-m/ECC](https://github.com/affaan-m/ECC)|GitHub|1.00
+5. [langchain-ai/langchain](https://github.com/langchain-ai/langchain)|GitHub|1.00
+6. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|GitHub|1.00
+7. [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory)|GitHub|1.00
+8. [unslothai/unsloth](https://github.com/unslothai/unsloth)|GitHub|1.00
+9. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)|GitHub|1.00
+10. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)|GitHub|1.00
+11. [f/prompts.chat](https://github.com/f/prompts.chat)|GitHub|0.97
+12. [huggingface/transformers](https://github.com/huggingface/transformers)|GitHub|0.97
+13. [lobehub/lobehub](https://github.com/lobehub/lobehub)|GitHub|0.97
+14. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)|GitHub|0.97
+15. [open-webui/open-webui](https://github.com/open-webui/open-webui)|GitHub|0.93
+16. [bytedance/deer-flow](https://github.com/bytedance/deer-flow)|GitHub|0.93
+17. [ollama/ollama](https://github.com/ollama/ollama)|GitHub|0.88
+18. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|GitHub|0.83
+19. [keras-team/keras](https://github.com/keras-team/keras)|GitHub|0.83
+20. [obra/superpowers](https://github.com/obra/superpowers)|GitHub|0.79
+21. [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)|GitHub|0.79
+22. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)|GitHub|0.79
+23. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)|GitHub|0.79
+24. [openclaw/openclaw](https://github.com/openclaw/openclaw)|GitHub|0.75
+25. [n8n-io/n8n](https://github.com/n8n-io/n8n)|GitHub|0.75
+26. [pytorch/pytorch](https://github.com/pytorch/pytorch)|GitHub|0.75
+27. [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|GitHub|0.75
+28. [netdata/netdata](https://github.com/netdata/netdata)|GitHub|0.75
+29. [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)|GitHub|0.75
+30. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)|GitHub|0.75
+
+由agents-radar demo生成

@@ -1,0 +1,24 @@
+name: 每日更新
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 北京时间 00:00 (UTC 16:00)
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: 运行信息雷达
+        run: node 信息雷达.mjs
+        working-directory: ./
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          force_orphan: true
